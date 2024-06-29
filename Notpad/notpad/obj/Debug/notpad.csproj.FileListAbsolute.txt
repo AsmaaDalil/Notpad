@@ -1,0 +1,59 @@
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\bin\Debug\notpad.exe
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.Form1.resources
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.exe
+C:\Users\ACAD CENTER\source\repos\notpad\notpad\obj\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.Form1.resources
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.Form3.resources
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\itextsharp.dll
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\bin\Debug\itextsharp.xml
+C:\Users\ACAD CENTER\Desktop\notpad\notpad\obj\Debug\notpad.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\itextsharp.dll
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\bin\Debug\itextsharp.xml
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.Form1.resources
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.Form3.resources
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\مشاريع\notpad\notpad\obj\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\itextsharp.dll
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\bin\Debug\itextsharp.xml
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.csproj.AssemblyReference.cache
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.Form1.resources
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.Form3.resources
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.cache
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.csproj.CoreCompileInputs.cache
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.csproj.CopyComplete
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.exe
+C:\Users\ACAD CENTER\Desktop\السنة الثانية\مشاريع فصلية\Notpad\notpad\obj\Debug\notpad.pdb
